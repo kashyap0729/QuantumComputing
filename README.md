@@ -71,7 +71,6 @@ Quantum computing holds the potential to revolutionize how we solve complex prob
 
 ## Tools and Resources
 - **Azure Quantum**: The platform where you will run quantum algorithms on real quantum hardware.
-- **Qiskit / Cirq**: Libraries for quantum computing simulations.
 - **Microsoft Quantum Development Kit**: For programming quantum circuits and running simulations.
 
 ## Conclusion

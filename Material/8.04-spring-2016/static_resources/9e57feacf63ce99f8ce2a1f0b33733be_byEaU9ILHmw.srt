@@ -1,0 +1,1284 @@
+1
+00:00:00,540 --> 00:00:03,780
+PROFESSOR: Last time,
+we spoke about photons
+
+2
+00:00:03,780 --> 00:00:06,690
+in the context of
+an interferometer.
+
+3
+00:00:06,690 --> 00:00:09,610
+The Mach-Zehnder interferometer.
+
+4
+00:00:09,610 --> 00:00:13,380
+And we saw the very
+unusual properties
+
+5
+00:00:13,380 --> 00:00:18,540
+of photons and interference,
+and how relatively simple
+
+6
+00:00:18,540 --> 00:00:22,290
+interference a effect
+can be used to produce
+
+7
+00:00:22,290 --> 00:00:27,000
+a very surprising measurement.
+
+8
+00:00:27,000 --> 00:00:31,130
+Today we're going to backtrack
+and go from the beginning,
+
+9
+00:00:31,130 --> 00:00:36,480
+and think about photons as
+physicists did 100 years ago,
+
+10
+00:00:36,480 --> 00:00:39,650
+and how, by thinking
+about photons,
+
+11
+00:00:39,650 --> 00:00:42,770
+they pretty much came up
+with quantum mechanics.
+
+12
+00:00:42,770 --> 00:00:45,470
+So we want to trace this back.
+
+13
+00:00:45,470 --> 00:00:49,340
+And the best place
+to start, probably,
+
+14
+00:00:49,340 --> 00:00:52,790
+is with a photoelectric effect.
+
+15
+00:00:52,790 --> 00:00:56,600
+The photoelectric
+effect is an experiment
+
+16
+00:00:56,600 --> 00:01:05,230
+done by Hertz in 1887, in
+which he irradiated plates.
+
+17
+00:01:05,230 --> 00:01:09,730
+That means shine light,
+high energy beams of light,
+
+18
+00:01:09,730 --> 00:01:14,710
+on metal plate, and he found
+that electrons were released.
+
+19
+00:01:14,710 --> 00:01:17,680
+Those were called
+photo electrons.
+
+20
+00:01:17,680 --> 00:01:21,940
+And therefore, you would
+get a photoelectric current
+
+21
+00:01:21,940 --> 00:01:23,210
+from those electrons.
+
+22
+00:01:23,210 --> 00:01:26,740
+So this is the effect
+we want to discuss now,
+
+23
+00:01:26,740 --> 00:01:28,510
+is the photoelectric effect.
+
+24
+00:01:38,180 --> 00:01:45,300
+And it's Hertz, 1887.
+
+25
+00:01:45,300 --> 00:01:48,350
+So first a description.
+
+26
+00:01:48,350 --> 00:02:13,440
+So polished metal plates
+irradiated may emit electrons.
+
+27
+00:02:13,440 --> 00:02:17,650
+And these are called
+photo electrons sometimes.
+
+28
+00:02:22,260 --> 00:02:26,400
+Photo electrons is
+just an electron that
+
+29
+00:02:26,400 --> 00:02:29,370
+was released due to a photon.
+
+30
+00:02:29,370 --> 00:02:32,505
+And therefore, we get a
+photoelectric current.
+
+31
+00:02:39,940 --> 00:02:43,440
+OK so so far, so good.
+
+32
+00:02:43,440 --> 00:02:47,570
+But what was special
+about this experiment?
+
+33
+00:02:47,570 --> 00:02:49,840
+The first step that was
+special was that there
+
+34
+00:02:49,840 --> 00:02:52,420
+was a critical frequency.
+
+35
+00:02:52,420 --> 00:02:56,410
+If you would take a sample
+and you would irradiate it
+
+36
+00:02:56,410 --> 00:02:59,980
+with light, and you
+would begin with light
+
+37
+00:02:59,980 --> 00:03:03,730
+with very low frequency,
+nothing would happen.
+
+38
+00:03:03,730 --> 00:03:08,350
+And all of a sudden after
+a certain frequency, boom.
+
+39
+00:03:08,350 --> 00:03:09,580
+You would get a current.
+
+40
+00:03:09,580 --> 00:03:26,810
+So there is a threshold
+frequency, nu0,
+
+41
+00:03:26,810 --> 00:03:35,405
+such that only for Nu greater
+than nu0 there is a current.
+
+42
+00:03:41,050 --> 00:03:44,300
+So no current for
+lower frequencies.
+
+43
+00:03:44,300 --> 00:03:49,720
+Now as it turned out,
+nu0 depends on the metal
+
+44
+00:03:49,720 --> 00:03:51,460
+you're irradiating.
+
+45
+00:03:51,460 --> 00:03:57,340
+And even more, it's a
+complicated thing to calculate.
+
+46
+00:03:57,340 --> 00:04:00,140
+It depends on the
+surface of the metal,
+
+47
+00:04:00,140 --> 00:04:03,850
+so that's why Hertz apparently
+had to polish the metal.
+
+48
+00:04:03,850 --> 00:04:09,010
+And this frequency, if
+the metal is irregular,
+
+49
+00:04:09,010 --> 00:04:11,110
+may depend on where you shine.
+
+50
+00:04:11,110 --> 00:04:15,310
+So you'd better prepare
+the metal very nicely.
+
+51
+00:04:15,310 --> 00:04:19,300
+And it may even depend
+on the crystalline nature
+
+52
+00:04:19,300 --> 00:04:24,190
+of the metal, because
+it's a many body effect.
+
+53
+00:04:24,190 --> 00:04:27,800
+You see, anticipating
+the resolution,
+
+54
+00:04:27,800 --> 00:04:30,880
+there is this piece of metal and
+there are a few free electrons
+
+55
+00:04:30,880 --> 00:04:32,350
+running around.
+
+56
+00:04:32,350 --> 00:04:36,520
+And they run around among
+the crystalline structure
+
+57
+00:04:36,520 --> 00:04:37,640
+of the metal.
+
+58
+00:04:37,640 --> 00:04:41,710
+And removing them, it's
+going to take some energy,
+
+59
+00:04:41,710 --> 00:04:46,240
+and that energy depends on
+the metal and the arrangement
+
+60
+00:04:46,240 --> 00:04:47,570
+and all kinds of things.
+
+61
+00:04:47,570 --> 00:05:08,260
+So this nu0 depends on the
+metal and the configuration
+
+62
+00:05:08,260 --> 00:05:09,900
+of atoms at the surface.
+
+63
+00:05:20,500 --> 00:05:29,000
+Third property was
+kind of interesting.
+
+64
+00:05:29,000 --> 00:05:32,660
+The magnitude of the
+current was proportional
+
+65
+00:05:32,660 --> 00:05:36,880
+to the intensity of the light.
+
+66
+00:05:36,880 --> 00:05:52,760
+Magnitude current
+is proportional
+
+67
+00:05:52,760 --> 00:05:54,370
+to the light intensity.
+
+68
+00:06:04,910 --> 00:06:11,580
+And perhaps the last one and
+fourth, a rather important one,
+
+69
+00:06:11,580 --> 00:06:15,330
+a very crucial
+property, is that you
+
+70
+00:06:15,330 --> 00:06:19,470
+could observe the energy
+of the photo electrons,
+
+71
+00:06:19,470 --> 00:06:24,425
+and it seemed to be independent
+of the light intensity.
+
+72
+00:06:24,425 --> 00:06:33,760
+So energy of the
+photo electrons is
+
+73
+00:06:33,760 --> 00:06:49,980
+independent of the
+intensity of light
+
+74
+00:06:49,980 --> 00:06:52,860
+The number of photo
+electrons would
+
+75
+00:06:52,860 --> 00:06:55,320
+depend on the
+intensity of light,
+
+76
+00:06:55,320 --> 00:06:59,970
+but not the energy of
+the photo electrons.
+
+77
+00:06:59,970 --> 00:07:04,140
+Now there is more to that,
+but I think it was not
+
+78
+00:07:04,140 --> 00:07:07,620
+quite exactly noticed by Hertz.
+
+79
+00:07:07,620 --> 00:07:11,920
+So Hertz probably didn't
+notice all these things.
+
+80
+00:07:11,920 --> 00:07:17,280
+But the last one, that maybe
+we can put in brackets here,
+
+81
+00:07:17,280 --> 00:07:24,440
+is that the energy of the
+photo electrons E gamma--
+
+82
+00:07:24,440 --> 00:07:37,380
+oh, no-- E of the electrons
+increases linearly
+
+83
+00:07:37,380 --> 00:07:40,770
+with the frequency of the light.
+
+84
+00:07:53,760 --> 00:07:59,330
+So this photoelectric
+effect was not
+
+85
+00:07:59,330 --> 00:08:04,630
+easy to understand if you
+thought of light as a wave.
+
+86
+00:08:04,630 --> 00:08:07,750
+And Einstein came
+up with an answer
+
+87
+00:08:07,750 --> 00:08:10,930
+that he almost said
+what was going on,
+
+88
+00:08:10,930 --> 00:08:13,990
+but didn't quite use the word.
+
+89
+00:08:13,990 --> 00:08:20,370
+He said that light comes
+in bundles of energy.
+
+90
+00:08:20,370 --> 00:08:25,300
+And in a beam, you have
+bundles of energy quanta.
+
+91
+00:08:25,300 --> 00:08:29,070
+Didn't quite say
+light is a particle.
+
+92
+00:08:29,070 --> 00:08:32,470
+He himself was a little
+non-committal, I think,
+
+93
+00:08:32,470 --> 00:08:33,970
+about this concept.
+
+94
+00:08:33,970 --> 00:08:44,340
+But Einstein, in 1905, gives
+the natural explanation
+
+95
+00:08:44,340 --> 00:08:51,040
+and says that light
+is composed of quanta.
+
+96
+00:08:54,450 --> 00:08:57,900
+He would have to
+wait until 1920s
+
+97
+00:08:57,900 --> 00:09:02,930
+until the name photons came
+up, given by a chemist, Lewis.
+
+98
+00:09:05,910 --> 00:09:08,760
+So he called them quanta.
+
+99
+00:09:08,760 --> 00:09:12,270
+These are later photons, and
+I will use the name photons
+
+100
+00:09:12,270 --> 00:09:15,450
+from the beginning.
+
+101
+00:09:15,450 --> 00:09:31,750
+With energy, E equal h nu,
+where nu is the frequency and h
+
+102
+00:09:31,750 --> 00:09:34,360
+was Planck's constant.
+
+103
+00:09:34,360 --> 00:09:38,380
+Planck had already
+introduced the constant
+
+104
+00:09:38,380 --> 00:09:42,640
+in trying to fit the
+black body spectrum.
+
+105
+00:09:42,640 --> 00:09:45,880
+The black body spectrum,
+the intensity of light
+
+106
+00:09:45,880 --> 00:09:49,590
+is a function of frequency
+in black body radiation,
+
+107
+00:09:49,590 --> 00:09:51,610
+had a particular curve.
+
+108
+00:09:51,610 --> 00:09:55,810
+Planck tried to fit it and he
+realized he needed one constant
+
+109
+00:09:55,810 --> 00:09:58,240
+and he called it h.
+
+110
+00:09:58,240 --> 00:10:00,490
+That's Planck's constant.
+
+111
+00:10:00,490 --> 00:10:04,330
+And the same constant
+that Planck introduced,
+
+112
+00:10:04,330 --> 00:10:07,820
+reappeared in
+Einstein's proposition.
+
+113
+00:10:07,820 --> 00:10:11,435
+This is Planck's constant.
+
+114
+00:10:17,310 --> 00:10:22,630
+So the picture that
+Einstein and others had
+
+115
+00:10:22,630 --> 00:10:27,970
+was that you would have
+kind of a potential
+
+116
+00:10:27,970 --> 00:10:33,790
+here and plot energy
+over here, and maybe this
+
+117
+00:10:33,790 --> 00:10:36,460
+is some distance.
+
+118
+00:10:36,460 --> 00:10:41,080
+And you have a metal and there
+is the electrons captured here.
+
+119
+00:10:41,080 --> 00:10:43,310
+And here is zero energy.
+
+120
+00:10:43,310 --> 00:10:46,660
+So they have negative
+energy, they're captured.
+
+121
+00:10:46,660 --> 00:10:50,780
+And you need some
+amount of energy, w,
+
+122
+00:10:50,780 --> 00:10:54,730
+which is called the work
+function, that depends
+
+123
+00:10:54,730 --> 00:10:58,150
+on the type of metal you have.
+
+124
+00:10:58,150 --> 00:11:02,650
+And if you could
+supply that energy, w,
+
+125
+00:11:02,650 --> 00:11:08,350
+to any one of these electrons
+that are bound in this metal,
+
+126
+00:11:08,350 --> 00:11:12,080
+they would come out and
+not be attracted any more
+
+127
+00:11:12,080 --> 00:11:13,720
+and would be able to fly free.
+
+128
+00:11:16,820 --> 00:11:19,300
+So it is like an
+escape velocity,
+
+129
+00:11:19,300 --> 00:11:21,200
+you're bound by the
+gravity of earth.
+
+130
+00:11:21,200 --> 00:11:24,980
+You need something velocity,
+some energy to shoot you out.
+
+131
+00:11:24,980 --> 00:11:26,570
+Same thing here.
+
+132
+00:11:26,570 --> 00:11:43,170
+So this w, or work function,
+is defined as the energy needed
+
+133
+00:11:43,170 --> 00:11:46,430
+to release an electron.
+
+134
+00:11:50,260 --> 00:11:53,740
+And that work
+function is that thing
+
+135
+00:11:53,740 --> 00:11:57,250
+that depends on the metal
+you have and the structure
+
+136
+00:11:57,250 --> 00:12:00,920
+and how well you've
+polished the surface.
+
+137
+00:12:00,920 --> 00:12:06,570
+So if this is true,
+then Einstein,
+
+138
+00:12:06,570 --> 00:12:10,630
+if he was right
+with this property,
+
+139
+00:12:10,630 --> 00:12:13,720
+there would be the following
+statement that you could make.
+
+140
+00:12:13,720 --> 00:12:25,280
+The energy of the electron,
+which is, roughly speaking,
+
+141
+00:12:25,280 --> 00:12:33,090
+one half mv squared, would
+be equal to the energy
+
+142
+00:12:33,090 --> 00:12:38,100
+that the photon [INAUDIBLE],
+minus the work function.
+
+143
+00:12:38,100 --> 00:12:40,290
+So you supply a photon.
+
+144
+00:12:40,290 --> 00:12:43,470
+Some of the energy goes
+into the work function,
+
+145
+00:12:43,470 --> 00:12:49,200
+but the rest of the energy
+goes into giving free energy
+
+146
+00:12:49,200 --> 00:12:50,720
+to these electrons.
+
+147
+00:12:50,720 --> 00:12:53,640
+So you have the
+energy of the photon
+
+148
+00:12:53,640 --> 00:12:58,230
+minus w, which is what you
+need to just take it out
+
+149
+00:12:58,230 --> 00:12:59,760
+with 0 velocity.
+
+150
+00:12:59,760 --> 00:13:02,460
+And then the rest of
+the energy of the photon
+
+151
+00:13:02,460 --> 00:13:10,610
+would be transmitted as
+kinetic energy of the electron.
+
+152
+00:13:10,610 --> 00:13:17,920
+So if this is true, this
+would be h nu minus omega.
+
+153
+00:13:17,920 --> 00:13:21,510
+And this was considered
+a prediction,
+
+154
+00:13:21,510 --> 00:13:26,340
+because that statement that
+the energy of the electron
+
+155
+00:13:26,340 --> 00:13:29,700
+increases linearly
+with the frequency,
+
+156
+00:13:29,700 --> 00:13:33,120
+was not quite obvious to people.
+
+157
+00:13:33,120 --> 00:13:35,670
+Experiments were
+not fine enough.
+
+158
+00:13:35,670 --> 00:13:38,220
+Measuring the energy of
+the emitted particles
+
+159
+00:13:38,220 --> 00:13:40,650
+was not all that easy either.
+
+160
+00:13:40,650 --> 00:13:45,690
+So this was
+Einstein's prediction.
+
+161
+00:13:55,980 --> 00:13:59,430
+And the experimental
+confirmation
+
+162
+00:13:59,430 --> 00:14:02,170
+took 10 years to come.
+
+163
+00:14:02,170 --> 00:14:07,320
+It was verified by
+Millikan in 1915.
+
+164
+00:14:07,320 --> 00:14:17,780
+So Millikan, in 1915, measures
+the energy of the photo
+
+165
+00:14:17,780 --> 00:14:32,460
+electrons, verifies
+Einstein's conjecture,
+
+166
+00:14:32,460 --> 00:14:37,790
+and actually produces,
+by measuring so carefully
+
+167
+00:14:37,790 --> 00:14:41,270
+the energy of the photo
+electrons, produces
+
+168
+00:14:41,270 --> 00:14:47,070
+a measurement of h, which
+is the best to that point.
+
+169
+00:14:47,070 --> 00:15:01,360
+And h is measured
+to better than 1%,
+
+170
+00:15:01,360 --> 00:15:05,170
+so a very accurate
+measurement of h.
+
+171
+00:15:05,170 --> 00:15:10,330
+And perhaps you would say,
+OK, so this is all wonderful,
+
+172
+00:15:10,330 --> 00:15:12,670
+now everybody
+believes in photons.
+
+173
+00:15:12,670 --> 00:15:17,920
+But that's quite
+far from the truth.
+
+174
+00:15:17,920 --> 00:15:20,410
+They didn't believe
+in photons too much,
+
+175
+00:15:20,410 --> 00:15:23,850
+because Maxwell had
+been too successful.
+
+176
+00:15:23,850 --> 00:15:28,540
+And Einstein himself knew that
+once you started believing
+
+177
+00:15:28,540 --> 00:15:30,880
+in particles like
+photons, you had
+
+178
+00:15:30,880 --> 00:15:35,980
+this subject with this case of
+loss of determinism and waves
+
+179
+00:15:35,980 --> 00:15:39,190
+that we have sometimes
+as particles and things
+
+180
+00:15:39,190 --> 00:15:41,260
+he didn't like much.
+
+181
+00:15:41,260 --> 00:15:46,120
+So people were quite reluctant
+to believe in these things.
+
+182
+00:15:46,120 --> 00:15:48,200
+It's quite amazing.
+
+183
+00:15:48,200 --> 00:15:53,060
+So it took a while still.
+
+184
+00:15:53,060 --> 00:15:58,910
+So let's do a simple exercise
+to introduce some numbers here,
+
+185
+00:15:58,910 --> 00:16:02,870
+and show you how to do some
+very simple computation.
+
+186
+00:16:02,870 --> 00:16:04,495
+So let me do an example.
+
+187
+00:16:10,020 --> 00:16:25,590
+You shine UV light with lambda
+290 nanometers on a metal
+
+188
+00:16:25,590 --> 00:16:35,040
+with work function 4.05 EV.
+
+189
+00:16:35,040 --> 00:16:44,900
+What is the energy, E
+of the photo electrons,
+
+190
+00:16:44,900 --> 00:16:50,520
+and what is their speed?
+
+191
+00:16:54,810 --> 00:17:00,720
+Now it is a goal of mine, and of
+the instructors in this course,
+
+192
+00:17:00,720 --> 00:17:04,380
+that a calculation
+like that, you should
+
+193
+00:17:04,380 --> 00:17:10,349
+be able to do without
+turning on your iPhone
+
+194
+00:17:10,349 --> 00:17:14,579
+and checking what the h bar is,
+and getting a few constants,
+
+195
+00:17:14,579 --> 00:17:18,000
+and what is an EV
+or all these things.
+
+196
+00:17:18,000 --> 00:17:20,640
+Well nowadays, you can
+just check Wolfram Alpha
+
+197
+00:17:20,640 --> 00:17:22,950
+and they will give
+you the answer
+
+198
+00:17:22,950 --> 00:17:26,599
+for this, in beautiful,
+beautiful calculations.
+
+199
+00:17:26,599 --> 00:17:29,100
+Just copy the
+question like that,
+
+200
+00:17:29,100 --> 00:17:33,390
+pretty much, I think it
+will answer it for you.
+
+201
+00:17:33,390 --> 00:17:35,220
+But you should be
+able to do back
+
+202
+00:17:35,220 --> 00:17:38,760
+of the envelope calculations,
+in which you estimate things
+
+203
+00:17:38,760 --> 00:17:39,360
+quickly.
+
+204
+00:17:39,360 --> 00:17:42,540
+And with one significant
+digit, you don't even
+
+205
+00:17:42,540 --> 00:17:44,380
+need a calculator to do this.
+
+206
+00:17:44,380 --> 00:17:47,290
+So let's see how
+one does this thing.
+
+207
+00:17:47,290 --> 00:17:51,720
+So the first thing to
+do is to figure out what
+
+208
+00:17:51,720 --> 00:17:53,940
+is the energy of this photon.
+
+209
+00:17:53,940 --> 00:17:56,160
+That's the first problem.
+
+210
+00:17:56,160 --> 00:18:00,120
+So the energy of
+a photon is h nu.
+
+211
+00:18:02,940 --> 00:18:05,550
+But nu it's not lambda.
+
+212
+00:18:05,550 --> 00:18:10,950
+So nu time lambda is c,
+so this is hc over lambda,
+
+213
+00:18:10,950 --> 00:18:14,820
+where c is the speed of light.
+
+214
+00:18:14,820 --> 00:18:21,610
+OK, hc lambda, we could
+do it if we knew h.
+
+215
+00:18:21,610 --> 00:18:26,520
+I must say, I never remember
+what h is in normal units.
+
+216
+00:18:26,520 --> 00:18:30,030
+Joule seconds, six
+point something,
+
+217
+00:18:30,030 --> 00:18:33,320
+I don't quite remember it.
+
+218
+00:18:33,320 --> 00:18:34,750
+So what do I do?
+
+219
+00:18:34,750 --> 00:18:41,660
+I use h bar, which
+is h over 2 pi.
+
+220
+00:18:41,660 --> 00:18:48,620
+So h is 2 pi h
+bar c over lambda.
+
+221
+00:18:48,620 --> 00:18:50,980
+And here is where you--
+
+222
+00:18:50,980 --> 00:18:53,800
+here is the first
+thing that maybe you
+
+223
+00:18:53,800 --> 00:18:57,280
+want to remember by heart.
+
+224
+00:18:57,280 --> 00:19:01,270
+h bar c is a pretty
+nice number, it's
+
+225
+00:19:01,270 --> 00:19:11,350
+about 200mev times a fermi,
+If you want it more precise,
+
+226
+00:19:11,350 --> 00:19:17,770
+it's 197.33, if you
+want to get five digits,
+
+227
+00:19:17,770 --> 00:19:21,130
+but it's pretty close
+to 200 mev fermi.
+
+228
+00:19:21,130 --> 00:19:24,220
+And what is a fermi?
+
+229
+00:19:24,220 --> 00:19:28,840
+It's 10 to the minus 15 meters.
+
+230
+00:19:28,840 --> 00:19:31,990
+OK, so with this number,
+I claim you can do
+
+231
+00:19:31,990 --> 00:19:34,420
+pretty much all you want to do.
+
+232
+00:19:34,420 --> 00:19:42,550
+So here you have 2pi
+times 200 mev times
+
+233
+00:19:42,550 --> 00:19:47,950
+10 to the minus 15
+meters divided--
+
+234
+00:19:47,950 --> 00:19:49,310
+I'll put 197 here--
+
+235
+00:19:51,880 --> 00:19:58,210
+divided by lambda, which
+is 290 nanometers, which
+
+236
+00:19:58,210 --> 00:20:00,850
+is 10 to the minus 9 meters.
+
+237
+00:20:04,220 --> 00:20:08,000
+So 10 to the minus 9
+and 10 to the minus 15
+
+238
+00:20:08,000 --> 00:20:11,210
+is 10 to the minus 6 up.
+
+239
+00:20:11,210 --> 00:20:15,630
+And this is a million
+ev, which is 10 to 6 ev.
+
+240
+00:20:15,630 --> 00:20:21,440
+So all these meters cancel
+and there's just an ev left.
+
+241
+00:20:21,440 --> 00:20:30,710
+So this is 2 pi times
+197 over 290 ev.
+
+242
+00:20:30,710 --> 00:20:35,940
+And you certainly could estimate
+this like 2 over 3 times 2 pi,
+
+243
+00:20:35,940 --> 00:20:37,550
+which is 6.
+
+244
+00:20:37,550 --> 00:20:39,980
+And that's about four.
+
+245
+00:20:39,980 --> 00:20:41,720
+And if you want to
+do it more carefully,
+
+246
+00:20:41,720 --> 00:20:46,550
+it comes out to 4.28 ev.
+
+247
+00:20:46,550 --> 00:20:50,270
+And the nice thing is that
+the answer comes in ev's.
+
+248
+00:20:50,270 --> 00:20:52,370
+And the work
+functions, everybody
+
+249
+00:20:52,370 --> 00:20:57,870
+gives them in ev's, so
+it's a convenient thing.
+
+250
+00:20:57,870 --> 00:21:02,390
+So at this moment, you
+have this electron energy
+
+251
+00:21:02,390 --> 00:21:04,940
+of the photon being this.
+
+252
+00:21:04,940 --> 00:21:09,380
+So energy of the
+electron is energy
+
+253
+00:21:09,380 --> 00:21:15,380
+of the photon minus the
+work function, which is 428
+
+254
+00:21:15,380 --> 00:21:31,640
+minus 405 ev, and it's 0.23 ev.
+
+255
+00:21:31,640 --> 00:21:34,730
+That's a kinetic
+energy and that should
+
+256
+00:21:34,730 --> 00:21:39,710
+be a non-relativistic
+electron because the rest
+
+257
+00:21:39,710 --> 00:21:46,170
+mass of an electron is
+about half a million ev.
+
+258
+00:21:46,170 --> 00:21:51,360
+It is 511,000 ev.
+
+259
+00:21:51,360 --> 00:21:54,520
+So this is fairly
+non-relativistic, but how slow
+
+260
+00:21:54,520 --> 00:21:55,020
+is it?
+
+261
+00:21:55,020 --> 00:21:57,340
+Is it moving a
+centimeter per second?
+
+262
+00:21:57,340 --> 00:22:00,490
+No, it's moving pretty fast.
+
+263
+00:22:00,490 --> 00:22:06,120
+You can write this as
+one half mv squared.
+
+264
+00:22:06,120 --> 00:22:08,110
+And then what do you do?
+
+265
+00:22:08,110 --> 00:22:12,750
+You put one half m
+of the electron c
+
+266
+00:22:12,750 --> 00:22:18,010
+squared v squared
+over c squared.
+
+267
+00:22:18,010 --> 00:22:31,180
+And this is one half of 511,000
+ev times v over c squared.
+
+268
+00:22:31,180 --> 00:22:37,570
+So do the arithmetic, it's
+20.46 over that, square root
+
+269
+00:22:37,570 --> 00:22:40,840
+and multiply it by
+the speed of light.
+
+270
+00:22:40,840 --> 00:22:43,000
+You can do this
+roughly in your head.
+
+271
+00:22:43,000 --> 00:22:52,540
+And the velocity comes out
+to 284 kilometers per second,
+
+272
+00:22:52,540 --> 00:22:55,020
+so it's pretty fast.

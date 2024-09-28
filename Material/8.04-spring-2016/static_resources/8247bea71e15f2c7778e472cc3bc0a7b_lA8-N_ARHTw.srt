@@ -1,0 +1,474 @@
+1
+00:00:00,690 --> 00:00:04,770
+PROFESSOR: We have
+found in this solution
+
+2
+00:00:04,770 --> 00:00:08,660
+with some energy like this,
+that there's a decaying
+
+3
+00:00:08,660 --> 00:00:11,590
+exponential over this side.
+
+4
+00:00:11,590 --> 00:00:17,700
+And the question is
+often asked, well what
+
+5
+00:00:17,700 --> 00:00:20,610
+happens if you tried
+to measure the particle
+
+6
+00:00:20,610 --> 00:00:22,410
+in the forbidden region?
+
+7
+00:00:22,410 --> 00:00:24,120
+Must be a problem.
+
+8
+00:00:24,120 --> 00:00:27,200
+If you find the particle
+in the forbidden region,
+
+9
+00:00:27,200 --> 00:00:30,280
+it has energy E that
+is less than v0,
+
+10
+00:00:30,280 --> 00:00:32,820
+so you you have
+found the particle
+
+11
+00:00:32,820 --> 00:00:34,710
+with negative kinetic energy.
+
+12
+00:00:34,710 --> 00:00:35,620
+How does it look?
+
+13
+00:00:35,620 --> 00:00:36,570
+How can it happen?
+
+14
+00:00:36,570 --> 00:00:37,890
+What's going on?
+
+15
+00:00:37,890 --> 00:00:41,700
+Can you really find the particle
+in the forbidden region?
+
+16
+00:00:41,700 --> 00:00:47,630
+And then how does this negative
+kinetic energy look like?
+
+17
+00:00:47,630 --> 00:00:53,400
+The answer is that it's kind
+of funny what happens here.
+
+18
+00:00:53,400 --> 00:00:56,510
+You can make two statements.
+
+19
+00:00:56,510 --> 00:01:03,150
+It would be contradictory,
+contradictory
+
+20
+00:01:03,150 --> 00:01:04,005
+if you could make--
+
+21
+00:01:06,740 --> 00:01:10,370
+could say the following things.
+
+22
+00:01:10,370 --> 00:01:19,530
+One, that the particle is
+in the forbidden region,
+
+23
+00:01:19,530 --> 00:01:21,690
+forbidden region.
+
+24
+00:01:21,690 --> 00:01:29,250
+And two, that the particle
+has energy less than v0.
+
+25
+00:01:29,250 --> 00:01:36,390
+Because then it would mean
+negative kinetic energy.
+
+26
+00:01:36,390 --> 00:01:42,920
+So if you can say these two
+things, it seems contradictory.
+
+27
+00:01:42,920 --> 00:01:48,140
+So quantum mechanics
+evades this problem.
+
+28
+00:01:48,140 --> 00:01:50,510
+Now, this is not
+discussed as far
+
+29
+00:01:50,510 --> 00:01:56,780
+as I can see, except in
+some lecture notes of Gordon
+
+30
+00:01:56,780 --> 00:02:03,750
+[? Boehme. ?] And because the
+argument is not 100% precise,
+
+31
+00:02:03,750 --> 00:02:06,280
+but they think the spirit
+of the argument is clear.
+
+32
+00:02:06,280 --> 00:02:08,979
+So I want to share it with you.
+
+33
+00:02:08,979 --> 00:02:09,914
+So here is the catch.
+
+34
+00:02:12,690 --> 00:02:16,080
+This particle,
+remember it's governed
+
+35
+00:02:16,080 --> 00:02:20,910
+by e to the minus kappa x
+is the forbidden region.
+
+36
+00:02:20,910 --> 00:02:26,400
+So the length scale here where
+you can find it, the particle.
+
+37
+00:02:26,400 --> 00:02:29,640
+The length scale is,
+this forbidden region
+
+38
+00:02:29,640 --> 00:02:36,860
+stretches to about x of
+the order 1 over kappa.
+
+39
+00:02:39,500 --> 00:02:43,460
+If you are going to find it, it
+is in the region of a distance
+
+40
+00:02:43,460 --> 00:02:44,860
+1 over kappa.
+
+41
+00:02:44,860 --> 00:02:47,830
+At 10 1 over kappa you're
+not going to find it.
+
+42
+00:02:47,830 --> 00:02:50,340
+The exponential is too small.
+
+43
+00:02:50,340 --> 00:02:52,820
+But remember, what was kappa?
+
+44
+00:02:52,820 --> 00:03:03,620
+Kappa squared was 2m v0
+minus E over h squared.
+
+45
+00:03:03,620 --> 00:03:06,120
+That's what it was.
+
+46
+00:03:06,120 --> 00:03:10,060
+Now if you want
+to see and declare
+
+47
+00:03:10,060 --> 00:03:12,700
+that you have this
+particle, you would
+
+48
+00:03:12,700 --> 00:03:17,740
+have to be able to measure
+position with some precision,
+
+49
+00:03:17,740 --> 00:03:22,000
+with a precision a
+little smaller than this.
+
+50
+00:03:22,000 --> 00:03:23,950
+Otherwise if you
+measure with precision
+
+51
+00:03:23,950 --> 00:03:26,410
+10 times that, well
+maybe it's to the left,
+
+52
+00:03:26,410 --> 00:03:28,010
+maybe it's somewhere else.
+
+53
+00:03:28,010 --> 00:03:40,130
+So you need to measure position
+with delta x a little smaller
+
+54
+00:03:40,130 --> 00:03:44,390
+than 1 over kappa, otherwise you
+cannot really tell it's inside
+
+55
+00:03:44,390 --> 00:03:45,500
+the forbidden region.
+
+56
+00:03:48,290 --> 00:03:58,930
+But now the problem is that if
+you do a position measurement,
+
+57
+00:03:58,930 --> 00:04:00,720
+and you localize
+the wave function,
+
+58
+00:04:00,720 --> 00:04:02,670
+there is some
+momentum uncertainty.
+
+59
+00:04:02,670 --> 00:04:05,110
+The particle that
+you're looking at,
+
+60
+00:04:05,110 --> 00:04:09,670
+as opposed to the particle
+to the left, has no momentum.
+
+61
+00:04:09,670 --> 00:04:11,800
+It's a different kind
+of wave function.
+
+62
+00:04:11,800 --> 00:04:13,850
+There's no momentum
+really associated
+
+63
+00:04:13,850 --> 00:04:16,149
+or well-defined momentum to it.
+
+64
+00:04:16,149 --> 00:04:19,779
+So because you make
+a position, you're
+
+65
+00:04:19,779 --> 00:04:23,050
+localizing x, whatever
+wave function you have.
+
+66
+00:04:23,050 --> 00:04:30,090
+You're going to have some
+uncertainty, and some momentum
+
+67
+00:04:30,090 --> 00:04:37,910
+that is going to be kind of
+bigger than h bar over delta x.
+
+68
+00:04:37,910 --> 00:04:45,690
+So a momentum that is bigger
+than, or a little bigger,
+
+69
+00:04:45,690 --> 00:04:49,110
+than h bar kappa.
+
+70
+00:04:49,110 --> 00:04:51,820
+If delta x is less
+than that inequality,
+
+71
+00:04:51,820 --> 00:04:53,310
+it goes in the same direction.
+
+72
+00:04:53,310 --> 00:04:56,040
+So there's going to
+be an uncertainty P.
+
+73
+00:04:56,040 --> 00:05:02,160
+And therefore, this particle
+has now some kinetic energy
+
+74
+00:05:02,160 --> 00:05:04,360
+due to this uncertain momentum.
+
+75
+00:05:04,360 --> 00:05:14,900
+So uncertainty in the
+kinetic energy is how much?
+
+76
+00:05:14,900 --> 00:05:22,430
+It's P squared over 2m, where
+P is this uncertain momentum.
+
+77
+00:05:22,430 --> 00:05:29,660
+So this is equal to h bar
+kappa squared over 2m,
+
+78
+00:05:29,660 --> 00:05:36,420
+which is equal to v0 minus E.
+
+79
+00:05:36,420 --> 00:05:40,560
+So actually, if you think
+about it, here is v0.
+
+80
+00:05:40,560 --> 00:05:45,090
+This difference is v0 minus
+E. And you were going to say,
+
+81
+00:05:45,090 --> 00:05:48,690
+oh, I found the particle, it
+has negative kinetic energy.
+
+82
+00:05:48,690 --> 00:05:49,250
+But no.
+
+83
+00:05:49,250 --> 00:05:51,960
+The uncertainty principle
+says, you found it localized?
+
+84
+00:05:51,960 --> 00:05:53,000
+OK.
+
+85
+00:05:53,000 --> 00:05:55,020
+Your kinetic energy,
+I'm sorry, no.
+
+86
+00:05:55,020 --> 00:05:56,140
+There's an uncertainty.
+
+87
+00:05:56,140 --> 00:05:57,310
+How much?
+
+88
+00:05:57,310 --> 00:05:59,070
+v0 minus E.
+
+89
+00:05:59,070 --> 00:06:03,180
+So whatever you wanted to
+prove, it has been disproved.
+
+90
+00:06:03,180 --> 00:06:04,050
+You can't do it.
+
+91
+00:06:04,050 --> 00:06:11,080
+The total energy,
+total energy is now
+
+92
+00:06:11,080 --> 00:06:14,860
+E plus the uncertainty
+in the energy, which
+
+93
+00:06:14,860 --> 00:06:20,980
+is E plus v0 minus
+E. And it's therefore
+
+94
+00:06:20,980 --> 00:06:25,140
+greater than or equal to v0.
+
+95
+00:06:25,140 --> 00:06:28,470
+And no real contradiction.
+
+96
+00:06:28,470 --> 00:06:30,630
+So the uncertainty
+principle sort of
+
+97
+00:06:30,630 --> 00:06:34,980
+conspires to prevent you
+from finding a particle
+
+98
+00:06:34,980 --> 00:06:37,360
+with negative kinetic energy.
+
+99
+00:06:37,360 --> 00:06:40,380
+And if you do detect a particle
+in the forbidden region,
+
+100
+00:06:40,380 --> 00:06:45,990
+it will have total energy 0,
+or total kinetic energy 0.
+
+101
+00:06:45,990 --> 00:06:47,580
+It will be a normal particle.
+
+102
+00:06:47,580 --> 00:06:50,050
+Nothing strange about it.

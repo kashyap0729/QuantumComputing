@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>LEC # TOPICS Part 1: Basic Concepts 1 Key Features of Quantum Mechanics: Linearity of the Equations of Motion, Complex Numbers are Essential, Loss of Determinism, Quantum Superpositions, Entanglement (PDF) 2 Experiments with Photons: Mach-Zehder Interferometer, Elitzur-Vaidman Bombs (PDF) 3 Particle Nature of Light and Wave Nature of Matter: Photoelectric Effect, Compton Scattering, Matter Waves (PDF) 4 de Broglie Wavelength and Galilean Transformations, Phase and Group Velocities, Choosing the Wavefunction for a Free Particle (PDF) 5 Equations for a Wavefunction, Schrödinger Equation for Particle in a Potential, Interpreting the Wavefunction (PDF) 6 Normalization and Time Evolution, The Wavefunction as a Probability Amplitude, The Probability Current, Probability Current in 3D and Current Conservation (PDF) 7 Wavepackets and Uncertainty, Wavepacket Shape Changes, Time Evolution of a Free Wave Packet (PDF) 8 Uncovering Momentum Space, Expectation Values of Operators, Time Dependence of Expectation Values (PDF) 9 Observables and Hermitian Operators, Uncertainty (PDF) Part 2: Quantum Physics in One-dimensional Potentials 10 Solving the Time-Independent Schrödinger Equation: Stationary States, Solving for Energy Eigenstates, Free Particle on a Circle (PDF) 11 The Infinite Square Well, The Finite Square Well (PDF) 12 General Properties, Bound States in Slowly Varying Potentials, Sketching Wavefunction Behavior in Different Regions, Shooting Method (PDF - 1.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 1</title>
+      <link>/resources/mit8_04s16_lecnotes1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes1/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 1.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 10</title>
+      <link>/resources/mit8_04s16_lecnotes10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes10/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 10.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 11</title>
+      <link>/resources/mit8_04s16_lecnotes11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes11/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 11.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 12</title>
+      <link>/resources/mit8_04s16_lecnotes12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes12/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 12.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 13</title>
+      <link>/resources/mit8_04s16_lecnotes13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes13/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 13.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 16</title>
+      <link>/resources/mit8_04s16_lecnotes16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes16/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 16.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 17</title>
+      <link>/resources/mit8_04s16_lecnotes17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes17/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 17.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 18</title>
+      <link>/resources/mit8_04s16_lecnotes18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes18/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 18.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 19</title>
+      <link>/resources/mit8_04s16_lecnotes19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes19/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 19.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 2</title>
+      <link>/resources/mit8_04s16_lecnotes2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes2/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 2.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 22</title>
+      <link>/resources/mit8_04s16_lecnotes22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes22/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 22.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 3</title>
+      <link>/resources/mit8_04s16_lecnotes3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes3/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 3.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 4</title>
+      <link>/resources/mit8_04s16_lecnotes4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes4/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 4.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 5</title>
+      <link>/resources/mit8_04s16_lecnotes5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes5/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 5.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 6</title>
+      <link>/resources/mit8_04s16_lecnotes6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes6/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 6.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 7</title>
+      <link>/resources/mit8_04s16_lecnotes7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes7/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 7.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 8</title>
+      <link>/resources/mit8_04s16_lecnotes8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes8/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 8.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Note 9</title>
+      <link>/resources/mit8_04s16_lecnotes9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes9/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Note 9.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Notes 14-15</title>
+      <link>/resources/mit8_04s16_lecnotes14_15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes14_15/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Notes 14-15.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Physics I, Lecture Notes 20-21</title>
+      <link>/resources/mit8_04s16_lecnotes20_21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit8_04s16_lecnotes20_21/data.json</guid>
+      <description>This resource contains information regarding quantum physics: Lecture Notes 20-21.</description>
+    </item>
+    
+  </channel>
+</rss>

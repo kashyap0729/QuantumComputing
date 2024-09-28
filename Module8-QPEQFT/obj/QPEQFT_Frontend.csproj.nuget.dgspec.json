@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Quantum Computing\\Module8-QPEQFT\\QPEQFT_Frontend.csproj": {}
+  },
+  "projects": {
+    "D:\\Quantum Computing\\Module8-QPEQFT\\QPEQFT_Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Quantum Computing\\Module8-QPEQFT\\QPEQFT_Frontend.csproj",
+        "projectName": "QPEQFT_Frontend",
+        "projectPath": "D:\\Quantum Computing\\Module8-QPEQFT\\QPEQFT_Frontend.csproj",
+        "packagesPath": "C:\\Users\\kashy\\.nuget\\packages\\",
+        "outputPath": "D:\\Quantum Computing\\Module8-QPEQFT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Quantum Computing\\Module8-QPEQFT\\NuGet.Config",
+          "C:\\Users\\kashy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Quantum Computing\\Module8-QPEQFT": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
+            "Microsoft.Quantum.CSharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.28.277227, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Katas": {
+              "target": "Package",
+              "version": "[0.28.277227, )"
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.28.277227, )"
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.28.277227, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.28.277227, )"
+            },
+            "Microsoft.Quantum.Targets.Interfaces": {
+              "target": "Package",
+              "version": "[0.28.277227, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Xunit": {
+              "target": "Package",
+              "version": "[0.28.277227, )"
+            },
+            "QPEQFT_TestingHarness": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

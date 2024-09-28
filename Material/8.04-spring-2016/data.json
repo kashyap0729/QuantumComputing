@@ -1,0 +1,20 @@
+{
+  "course_title":"Quantum Physics I",
+  "course_description":"This is the first course in the undergraduate Quantum Physics sequence. It introduces the basic features of quantum mechanics. It covers the experimental basis of quantum physics, introduces wave mechanics, Schrödinger's equation in a single dimension, and Schrödinger's equation in three dimensions. The lectures and lecture notes for this course form the basis of Zwiebach’s textbook *Mastering Quantum Mechanics* published by [MIT Press](https://mitpress.mit.edu/books/mastering-quantum-mechanics) in April 2022.\n\nThis presentation of 8.04 by Barton Zwiebach (2016) differs somewhat and complements nicely the presentation of [Allan Adams (2013)](/courses/8-04-quantum-physics-i-spring-2013/). Adams covers a larger set of ideas; Zwiebach tends to go deeper into a smaller set of ideas, offering a systematic and detailed treatment. Adams begins with the subtleties of superpostion, while Zwiebach discusses the surprises of interaction-free measurements. While both courses overlap over a sizable amount of standard material, Adams discussed applications to condensed matter physics, while Zwiebach focused on scattering and resonances. The different perspectives of the instructors make the problem sets in the two courses rather different.",
+  "site_uid":"42cdebee-e4f1-4c2e-bc5d-1284d692fa3d",
+  "legacy_uid":"4ea5742a-c367-7539-a6d1-ee9efe74fa9c","instructors": [{
+    "first_name":"Barton",
+    "last_name":"Zwiebach",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Barton Zwiebach"}],"department_numbers":["8"],
+  "learning_resource_types":["Lecture Videos","Problem Sets","Exams","Lecture Notes"],
+  "topics":[["Science","Physics","Quantum Mechanics"]],
+  "primary_course_number":"8.04",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2016",
+  "level":["Undergraduate"],
+  "image_src":"./static_resources/458fa90d4ae8b2d71bca7578a12923af_8-04s16.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"A Mach-Zehnder interferometer, with two beam splitters, two mirrors, and two detectors, is used to test if an  Elitzur-Vaidman bomb is functional without detonating it. Image by MIT OpenCourseWare.","draft":false,"file":"/courses/8-04-quantum-physics-i-spring-2016/458fa90d4ae8b2d71bca7578a12923af_8-04s16.jpg","file_size":29769,"file_type":"image/jpeg","image_metadata":{"caption":"A Mach-Zehnder interferometer, with two beam splitters, two mirrors, and two detectors, is used to test if an Elitzur-Vaidman bomb is functional without detonating it. (Image by MIT OpenCourseWare.)","credit":"Image by MIT OpenCourseWare.","image-alt":"Lines and boxes showing experimental set-up of a Mach-Zehnder interferometer."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"8-04s16.jpg","uid":"458fa90d-4ae8-b2d7-1bca-7578a12923af"}}
+

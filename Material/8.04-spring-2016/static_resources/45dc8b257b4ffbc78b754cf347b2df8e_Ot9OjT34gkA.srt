@@ -1,0 +1,936 @@
+1
+00:00:00,770 --> 00:00:04,130
+PROFESSOR: If you tell
+someone solve this equation
+
+2
+00:00:04,130 --> 00:00:06,260
+for l equals zero--
+
+3
+00:00:06,260 --> 00:00:08,150
+so you have this
+effective potential
+
+4
+00:00:08,150 --> 00:00:11,210
+for the real equation--
+solve it for l equals zero
+
+5
+00:00:11,210 --> 00:00:14,300
+and you find some energies.
+
+6
+00:00:14,300 --> 00:00:19,040
+You solve it for l equals 1,
+and you've found some energies.
+
+7
+00:00:19,040 --> 00:00:21,230
+You solve it now
+for l equals two
+
+8
+00:00:21,230 --> 00:00:22,790
+and you found some energies.
+
+9
+00:00:22,790 --> 00:00:25,670
+Well, we found
+them all together,
+
+10
+00:00:25,670 --> 00:00:30,090
+but something
+extraordinary happened
+
+11
+00:00:30,090 --> 00:00:34,290
+there was no a priori
+reason the system should
+
+12
+00:00:34,290 --> 00:00:35,610
+have been so simple.
+
+13
+00:00:35,610 --> 00:00:39,830
+It might have happened that
+these states would have not
+
+14
+00:00:39,830 --> 00:00:41,810
+been aligned with
+the previous states.
+
+15
+00:00:44,620 --> 00:00:48,400
+Nothing we've explained
+in this course
+
+16
+00:00:48,400 --> 00:00:50,840
+predicts that this
+would have happened,
+
+17
+00:00:50,840 --> 00:00:57,620
+this perfect alignment with
+extreme amount of degeneracy.
+
+18
+00:00:57,620 --> 00:01:01,190
+Because you have an l
+equals 2 multiplet here.
+
+19
+00:01:01,190 --> 00:01:03,020
+That means five states.
+
+20
+00:01:03,020 --> 00:01:06,140
+So there is
+degeneracy, but that's
+
+21
+00:01:06,140 --> 00:01:08,570
+implicit in angular momentum.
+
+22
+00:01:08,570 --> 00:01:10,250
+It has an explanation.
+
+23
+00:01:10,250 --> 00:01:13,430
+But why would there
+be a degeneracy
+
+24
+00:01:13,430 --> 00:01:18,846
+between l equals 1 solutions
+and l equals 2 solutions?
+
+25
+00:01:22,860 --> 00:01:24,520
+Total mystery, actually.
+
+26
+00:01:27,410 --> 00:01:31,670
+And this led to all kinds
+of interesting discoveries
+
+27
+00:01:31,670 --> 00:01:36,380
+that have to do with the
+Runge-Lenz vector, which
+
+28
+00:01:36,380 --> 00:01:43,010
+is some conserved vector
+in planetary orbits.
+
+29
+00:01:43,010 --> 00:01:47,540
+In planetary orbits,
+in Newton's theory,
+
+30
+00:01:47,540 --> 00:01:51,960
+an elliptical orbit is
+the general solution.
+
+31
+00:01:51,960 --> 00:01:55,070
+Nevertheless, elliptical
+orbits do not precess.
+
+32
+00:01:55,070 --> 00:01:57,620
+So you have an ellipse,
+it goes like that.
+
+33
+00:01:57,620 --> 00:02:01,360
+It's not going around
+and rotating the ellipse
+
+34
+00:02:01,360 --> 00:02:02,080
+at the same time.
+
+35
+00:02:02,080 --> 00:02:06,660
+The precession of an ellipse is
+not allowed by Newton's theory.
+
+36
+00:02:06,660 --> 00:02:10,880
+It's allowed by
+Einstein's gravity theory,
+
+37
+00:02:10,880 --> 00:02:15,250
+and in fact, the precession
+of mercury was measured.
+
+38
+00:02:15,250 --> 00:02:19,000
+But there is no precession
+in Newton's theory,
+
+39
+00:02:19,000 --> 00:02:23,620
+and there's no precession
+in a hydrogen atom,
+
+40
+00:02:23,620 --> 00:02:25,570
+in a sense, as you will see.
+
+41
+00:02:25,570 --> 00:02:32,980
+And that explains, actually
+in a rather interesting way--
+
+42
+00:02:32,980 --> 00:02:35,830
+but I'm not saying how yet--
+
+43
+00:02:35,830 --> 00:02:38,410
+why there is this
+extra degeneracy.
+
+44
+00:02:38,410 --> 00:02:42,430
+In fact, if you had
+solved the problem
+
+45
+00:02:42,430 --> 00:02:49,180
+of an infinite spherical, well,
+you will solve that in 805.
+
+46
+00:02:49,180 --> 00:02:51,410
+Infinite spherical well.
+
+47
+00:02:51,410 --> 00:02:55,450
+Suppose there's infinite square
+well-- infinite spherical well.
+
+48
+00:02:55,450 --> 00:03:01,570
+Inside a sphere of radius
+A, the potential is 0.
+
+49
+00:03:01,570 --> 00:03:06,700
+Outside the sphere of radius
+A, the potential is infinite.
+
+50
+00:03:06,700 --> 00:03:09,440
+That potential that
+looks so symmetric--
+
+51
+00:03:09,440 --> 00:03:12,610
+the l equals 0
+states are like this.
+
+52
+00:03:12,610 --> 00:03:15,670
+The l equal 1 states
+are like that.
+
+53
+00:03:15,670 --> 00:03:18,330
+The l equal 2 states
+are like that,
+
+54
+00:03:18,330 --> 00:03:21,070
+and there's never
+any coincidence.
+
+55
+00:03:21,070 --> 00:03:23,585
+So this coincidence
+between the l
+
+56
+00:03:23,585 --> 00:03:28,780
+equals 0, l equals 2, l
+equals 2 is very special.
+
+57
+00:03:28,780 --> 00:03:31,150
+It just doesn't happen often.
+
+58
+00:03:31,150 --> 00:03:35,170
+It's a sign of an
+extra symmetry.
+
+59
+00:03:35,170 --> 00:03:37,900
+This could only be explained
+because the hydrogen
+
+60
+00:03:37,900 --> 00:03:42,950
+atom has an extra symmetry
+you're not aware of.
+
+61
+00:03:42,950 --> 00:03:47,080
+So that's why this
+Runge-Lenz vector
+
+62
+00:03:47,080 --> 00:03:49,600
+has to do with
+that extra symmetry
+
+63
+00:03:49,600 --> 00:03:52,330
+and explains this effect.
+
+64
+00:03:52,330 --> 00:03:56,470
+And we'll get some
+intuition about it today.
+
+65
+00:03:56,470 --> 00:04:00,490
+A few more remarks
+to get your intuition
+
+66
+00:04:00,490 --> 00:04:02,610
+working on the hydrogen atoms.
+
+67
+00:04:02,610 --> 00:04:07,070
+Z equals 1, we write
+the wave function.
+
+68
+00:04:07,070 --> 00:04:09,690
+This is the most
+famous wave function.
+
+69
+00:04:09,690 --> 00:04:16,021
+Pi a0 cubed e to
+the minus r over a0.
+
+70
+00:04:16,021 --> 00:04:19,900
+And this is for z equals 1.
+
+71
+00:04:22,520 --> 00:04:26,510
+n equals 1, l equals
+0, m equals zero--
+
+72
+00:04:26,510 --> 00:04:28,160
+the complete ground state.
+
+73
+00:04:30,860 --> 00:04:38,510
+It's interesting to note and
+try to think, OK, suppose they
+
+74
+00:04:38,510 --> 00:04:42,410
+gave you the z equals 1 answer.
+
+75
+00:04:42,410 --> 00:04:44,900
+How do you get z
+different from 1?
+
+76
+00:04:48,660 --> 00:04:51,960
+Can I just do something
+with this solution?
+
+77
+00:04:51,960 --> 00:04:56,130
+Well, somehow it's written
+here, but I don't give here
+
+78
+00:04:56,130 --> 00:04:59,220
+the normalization because
+it's impossibly complicated
+
+79
+00:04:59,220 --> 00:05:03,110
+to write the general form
+for the normalization.
+
+80
+00:05:03,110 --> 00:05:09,340
+So how should I
+think of changing
+
+81
+00:05:09,340 --> 00:05:10,930
+if somebody would
+have told me this
+
+82
+00:05:10,930 --> 00:05:13,810
+is the answer for Z equals 1?
+
+83
+00:05:13,810 --> 00:05:17,380
+How do I get to Z
+different from 1?
+
+84
+00:05:17,380 --> 00:05:19,930
+And then I think
+of the potential,
+
+85
+00:05:19,930 --> 00:05:25,390
+and the potential
+was e squared over r.
+
+86
+00:05:25,390 --> 00:05:31,130
+That was the potential
+before, V of r.
+
+87
+00:05:31,130 --> 00:05:35,320
+And it will pass
+to a V of r that
+
+88
+00:05:35,320 --> 00:05:39,610
+has minus Ze squared over r.
+
+89
+00:05:39,610 --> 00:05:45,130
+Because now you have a nucleus
+with Z protons interacting
+
+90
+00:05:45,130 --> 00:05:48,520
+with one electron, so
+that's how it changed.
+
+91
+00:05:48,520 --> 00:05:52,840
+So naturally, what seems
+to be the change here,
+
+92
+00:05:52,840 --> 00:05:57,400
+and you could imagine just
+solving it without the Z
+
+93
+00:05:57,400 --> 00:06:00,990
+and then adding the Z, is that
+everywhere that you have e
+
+94
+00:06:00,990 --> 00:06:05,385
+squared you should
+put Z times e squared.
+
+95
+00:06:08,470 --> 00:06:14,140
+And then you think of a0.
+
+96
+00:06:14,140 --> 00:06:18,905
+a0 was h squared
+over me squared.
+
+97
+00:06:21,500 --> 00:06:24,290
+We calculated that
+some time ago.
+
+98
+00:06:24,290 --> 00:06:29,460
+And then if e squared
+goes to Ze squared,
+
+99
+00:06:29,460 --> 00:06:36,350
+this will go to 1 over Z
+squared over me squared.
+
+100
+00:06:36,350 --> 00:06:44,300
+So it will go to a0 over Z.
+
+101
+00:06:44,300 --> 00:06:51,000
+So you change a0 to a0 over Z.
+And these are the two changes.
+
+102
+00:06:53,580 --> 00:06:56,570
+One is implicit on the
+other, but many times you
+
+103
+00:06:56,570 --> 00:06:58,970
+write the formula
+in a mixed way.
+
+104
+00:06:58,970 --> 00:07:00,200
+Look at that energy.
+
+105
+00:07:04,390 --> 00:07:08,190
+If you would have looked
+at this without the Z
+
+106
+00:07:08,190 --> 00:07:11,280
+and you would have
+said, oh, e squared
+
+107
+00:07:11,280 --> 00:07:15,510
+is replaced by Ze squared,
+you would have put a single Z.
+
+108
+00:07:15,510 --> 00:07:21,930
+But there is a Z squared here,
+and it comes because 1z is here
+
+109
+00:07:21,930 --> 00:07:26,220
+and the other z is in
+the a0 because a0 also
+
+110
+00:07:26,220 --> 00:07:28,530
+has the e squared.
+
+111
+00:07:28,530 --> 00:07:32,490
+So you have to be aware
+that we write these things.
+
+112
+00:07:32,490 --> 00:07:37,380
+And this is intuitively a very
+nice way to write the energy,
+
+113
+00:07:37,380 --> 00:07:40,040
+because it has the right units--
+
+114
+00:07:40,040 --> 00:07:43,369
+electric charge squared
+divided by distance.
+
+115
+00:07:43,369 --> 00:07:44,910
+But you could have
+written everything
+
+116
+00:07:44,910 --> 00:07:48,270
+with h bar, something
+like that, in which case
+
+117
+00:07:48,270 --> 00:07:53,700
+the z squared might have
+been less surprising.
+
+118
+00:07:53,700 --> 00:07:58,020
+We see here, however, the z is
+appearing in the right place
+
+119
+00:07:58,020 --> 00:08:00,000
+because of the a0.
+
+120
+00:08:00,000 --> 00:08:05,530
+So here, I was right.
+
+121
+00:08:05,530 --> 00:08:10,096
+e to the minus zr over a0.
+
+122
+00:08:13,824 --> 00:08:17,500
+And can I get the
+normalization even right?
+
+123
+00:08:17,500 --> 00:08:20,140
+At this moment, yes.
+
+124
+00:08:20,140 --> 00:08:22,270
+Let's do the same change here.
+
+125
+00:08:22,270 --> 00:08:27,870
+Pi a0 cubed, z cubed.
+
+126
+00:08:27,870 --> 00:08:32,299
+And this must be right,
+because, in fact,
+
+127
+00:08:32,299 --> 00:08:36,940
+if this wave function
+was normalizable--
+
+128
+00:08:36,940 --> 00:08:40,706
+not normalizable;
+was normalized--
+
+129
+00:08:40,706 --> 00:08:45,720
+when you do the integral,
+somehow the a0 did not matter,
+
+130
+00:08:45,720 --> 00:08:46,625
+must not matter.
+
+131
+00:08:49,200 --> 00:08:52,250
+You checked psi squared
+integrated over volume
+
+132
+00:08:52,250 --> 00:08:53,205
+is equal to 1.
+
+133
+00:08:53,205 --> 00:08:56,720
+The a0 must be canceling here.
+
+134
+00:08:56,720 --> 00:09:02,600
+And therefore, if it works for
+a0, it must work for a0 over z,
+
+135
+00:09:02,600 --> 00:09:04,050
+and that must be
+a wave function.
+
+136
+00:09:07,230 --> 00:09:09,390
+So that's fine.
+
+137
+00:09:09,390 --> 00:09:10,965
+That's one thing you could ask.
+
+138
+00:09:15,410 --> 00:09:21,630
+Another thing that you could
+ask is, at least intuitively,
+
+139
+00:09:21,630 --> 00:09:25,950
+why did we get this factor here?
+
+140
+00:09:25,950 --> 00:09:29,860
+Why did we get this exponential?
+
+141
+00:09:29,860 --> 00:09:36,970
+And that's also not
+mysterious at all.
+
+142
+00:09:36,970 --> 00:09:42,190
+This comes from the
+differential equation.
+
+143
+00:09:42,190 --> 00:09:47,950
+It comes up rather immediately
+from the differential equation.
+
+144
+00:09:47,950 --> 00:09:57,100
+You have minus h squared over
+2m d second u dr squared,
+
+145
+00:09:57,100 --> 00:10:00,310
+plus some sort of number--
+
+146
+00:10:00,310 --> 00:10:03,720
+you don't care how
+much-- u over r squared
+
+147
+00:10:03,720 --> 00:10:08,500
+in the effective potential,
+minus some number over r
+
+148
+00:10:08,500 --> 00:10:12,340
+times u is equal to Eu.
+
+149
+00:10:12,340 --> 00:10:15,880
+This was your radial
+differential equation.
+
+150
+00:10:15,880 --> 00:10:20,608
+And this r goes to infinity.
+
+151
+00:10:20,608 --> 00:10:24,910
+As r goes to infinity,
+you get minus h
+
+152
+00:10:24,910 --> 00:10:35,110
+squared over 2m d second u
+dr squared is equal to Eu,
+
+153
+00:10:35,110 --> 00:10:36,430
+roughly.
+
+154
+00:10:36,430 --> 00:10:38,820
+That's the key terms.
+
+155
+00:10:38,820 --> 00:10:43,990
+And from here, d
+second u dr squared
+
+156
+00:10:43,990 --> 00:10:49,970
+is equal to minus 2
+mE over h squared u.
+
+157
+00:10:55,520 --> 00:10:58,100
+And that gives you
+an exponential,
+
+158
+00:10:58,100 --> 00:11:02,990
+and the exponential must be
+of the right value, which
+
+159
+00:11:02,990 --> 00:11:12,300
+we can calculate easily from
+the expression for the energy.
+
+160
+00:11:12,300 --> 00:11:16,460
+So the expression for
+the energy gives you
+
+161
+00:11:16,460 --> 00:11:28,930
+em equals minus z squared
+over 2a0 e squared, times 1
+
+162
+00:11:28,930 --> 00:11:30,000
+over n squared.
+
+163
+00:11:34,720 --> 00:11:47,725
+And I can change this
+thing into minus z squared.
+
+164
+00:11:51,870 --> 00:11:58,660
+Recall what's the value of
+the fine structure constant.
+
+165
+00:11:58,660 --> 00:12:05,580
+I can replace e squared from
+a0 to get the following thing
+
+166
+00:12:05,580 --> 00:12:10,840
+over 2a0 times h
+squared over ma0.
+
+167
+00:12:14,190 --> 00:12:15,960
+That is 1 over m squared.
+
+168
+00:12:20,340 --> 00:12:21,920
+A little bit of manipulation.
+
+169
+00:12:21,920 --> 00:12:29,180
+So at the end, minus
+2mEn over h squared,
+
+170
+00:12:29,180 --> 00:12:31,735
+which is what I need from
+the differential equation.
+
+171
+00:12:36,010 --> 00:12:40,420
+I must multiply by
+minus 2m over h squared.
+
+172
+00:12:40,420 --> 00:12:45,470
+You see that minus the 2m over
+h squared, they will disappear.
+
+173
+00:12:45,470 --> 00:12:53,650
+So you get here z squared
+over n squared a0 squared.
+
+174
+00:12:53,650 --> 00:12:55,330
+A little bit of manipulation.
+
+175
+00:12:55,330 --> 00:12:58,730
+So what are we trying to get?
+
+176
+00:12:58,730 --> 00:13:00,610
+We want to understand
+immediately
+
+177
+00:13:00,610 --> 00:13:03,050
+where this came from.
+
+178
+00:13:03,050 --> 00:13:04,640
+And we see it.
+
+179
+00:13:04,640 --> 00:13:07,630
+It comes from the asymptotic
+form of the differential
+
+180
+00:13:07,630 --> 00:13:09,690
+equation for a solution.
+
+181
+00:13:09,690 --> 00:13:14,440
+So I calculate the value of
+the right-hand side is this,
+
+182
+00:13:14,440 --> 00:13:16,540
+and therefore this
+differential equation
+
+183
+00:13:16,540 --> 00:13:24,850
+now looks like the du dr
+squared equals z squared over n
+
+184
+00:13:24,850 --> 00:13:27,820
+squared a0 squared u.
+
+185
+00:13:27,820 --> 00:13:31,000
+Are indeed, from
+here, the solutions
+
+186
+00:13:31,000 --> 00:13:34,720
+are exponentials
+of the square root
+
+187
+00:13:34,720 --> 00:13:39,370
+of this, which is z over na0r.
+
+188
+00:13:39,370 --> 00:13:46,490
+And that's a quicker derivation
+of a feature of the wave
+
+189
+00:13:46,490 --> 00:13:47,190
+function.
+
+190
+00:13:47,190 --> 00:13:50,420
+It's almost like you want to
+look at this wave function,
+
+191
+00:13:50,420 --> 00:13:52,280
+and you want to
+say, I understand
+
+192
+00:13:52,280 --> 00:13:54,890
+where everything comes from.
+
+193
+00:13:54,890 --> 00:13:58,340
+And I don't have to solve
+pages and pages of differential
+
+194
+00:13:58,340 --> 00:14:04,160
+equations to see why I need
+this, why I need that much.
+
+195
+00:14:04,160 --> 00:14:07,220
+I know I need this
+from r equals zero.
+
+196
+00:14:07,220 --> 00:14:08,450
+I know this degree.
+
+197
+00:14:08,450 --> 00:14:11,120
+I need it from the node theorem.
+
+198
+00:14:11,120 --> 00:14:16,500
+Everything sort of has a
+reason for being there,
+
+199
+00:14:16,500 --> 00:14:19,720
+and we should understand.

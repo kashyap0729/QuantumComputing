@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 1: Basic Concepts</title>
+      <link>/pages/video-lectures/part-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures/part-1/data.json</guid>
+      <description>lec # topics Lecture 1: An overview of quantum mechanics. L1.1 Quantum mechanics as a framework. Defining linearity (17:46) L1.2 Linearity and nonlinear theories. Schrödinger&amp;rsquo;s equation (10:01) L1.3 Necessity of complex numbers (07:38) L1.4 Photons and the loss of determinism (17:20) L1.5 The nature of superposition. Mach-Zehnder interferometer (14:30) Lecture 2: Overview of quantum mechanics (cont.). Interaction-free measurements. L2.1 More on superposition. General state of a photon and spin states (17:10) L2.</description>
+    </item>
+    
+    <item>
+      <title>Part 2: Quantum Physics in One-dimensional Potentials</title>
+      <link>/pages/video-lectures/part-2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures/part-2/data.json</guid>
+      <description>lec # topics Lecture 10: Uncertainty (cont.). Stationary states. Particle on a circle. L10.1 Uncertainty and eigenstates (15:53) L10.2 Stationary states: key equations (18:43) L﻿10.3 Expectation values on stationary states (09:00) L﻿10.4 Comments on the spectrum and continuity conditions (13:09) L﻿10.5 Solving particle on a circle (11:05) Lecture 11: Uncertainty (cont.). Stationary states. Particle on a circle. L11.1 Energy eigenstates for particle on a circle (16:12) L11.2 Infinite square well energy eigenstates (13:15) L﻿11.</description>
+    </item>
+    
+    <item>
+      <title>Part 3: One-dimensional Scattering, Angular Momentum, and Central Potentials</title>
+      <link>/pages/video-lectures/part-3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures/part-3/data.json</guid>
+      <description>lec # topics Lecture 19: Resonances and Breit-Wigner distribution. The complex k-plane. L19.1 Time delay and resonances (18:18) L19.2 Effects of resonance on phase shifts, wave amplitude and time delay (14:53) L19.3 Modelling a resonance (15:37) L19.4 Half-width and time delay (08:17) L19.5 Resonances in the complex k plane (15:14) Lecture 20: Central potentials and angular momentum. L20.1 Translation operator. Central potentials (19:13) L20.2 Angular momentum operators and their algebra (14:28) L20.</description>
+    </item>
+    
+    <item>
+      <title>Video Lectures</title>
+      <link>/pages/video-lectures/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures/data.json</guid>
+      <description>The videos in this course are broadly divided into three parts:
+Part 1: Basic Concepts
+In Part 1, we introduce the basic concepts: Interpretation of the wavefunction, relation to probability, Schrödinger equation, Hermitian operators and inner products. We also discuss wave-packets, time evolution, Ehrenfest theorem and uncertainty.
+Part 2: Quantum Physics in One-dimensional Potentials
+Part 2 deals with solutions of the Schrödinger equation for one-dimensional potentials. We discuss stationary states and the key problems of a particle moving in: A circle, an infinite well, a finite square well, and a delta-function potential.</description>
+    </item>
+    
+  </channel>
+</rss>

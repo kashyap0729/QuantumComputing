@@ -1,0 +1,525 @@
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/train_test_split.json
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.deps.json
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.runtimeconfig.json
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.pdb
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Core.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Identity.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Quantum.Jobs.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Storage.Common.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.Attributes.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.IO.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.Reflection.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.JSON.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FParsec.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FParsecCS.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FSharp.Core.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Humanizer.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Markdig.Signed.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Azure.Quantum.Client.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.BondSchemas.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCompilationManager.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCompiler.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCore.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsDataStructures.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsDocumentationParser.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsOptimizations.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsSyntaxProcessor.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsTextProcessor.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsTransformations.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.CSharpGeneration.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.RoslynWrapper.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.EntryPointDriver.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.MachineLearning.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QSharp.Core.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QSharp.Foundation.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Runtime.Core.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulation.Common.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulators.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Standard.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Targets.Interfaces.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.VisualStudio.LanguageServer.Protocol.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/NumSharp.Core.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.CodeDom.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.CommandLine.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.IO.Hashing.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Memory.Data.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Text.Json.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/YamlDotNet.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libMicrosoft.Quantum.Simulator.Runtime.so
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libMicrosoft.Quantum.SparseSimulator.Runtime.so
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libomp.so
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libomp.so.5
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libMicrosoft.Quantum.Simulator.Runtime.dylib
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libMicrosoft.Quantum.SparseSimulator.Runtime.dylib
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libomp.dylib
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Simulator.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Simulator.Runtime.lib
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.SparseSimulator.Runtime.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/libomp140.x86_64.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.AssemblyReference.cache
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.CopyComplete
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.AssemblyInfoInputs.cache
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.AssemblyInfo.cs
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.CoreCompileInputs.cache
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/refint/CarEvaluation.dll
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.pdb
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.genruntimeconfig.cache
+/home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/ref/CarEvaluation.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/train_test_split.json
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.deps.json
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.runtimeconfig.json
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/CarEvaluation.pdb
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Core.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Identity.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Quantum.Jobs.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Azure.Storage.Common.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.Attributes.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.IO.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.Reflection.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Bond.JSON.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FParsec.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FParsecCS.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/FSharp.Core.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Humanizer.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Markdig.Signed.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Azure.Quantum.Client.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.BondSchemas.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCompilationManager.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCompiler.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsCore.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsDataStructures.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsDocumentationParser.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsOptimizations.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsSyntaxProcessor.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsTextProcessor.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QsTransformations.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.CSharpGeneration.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.RoslynWrapper.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.EntryPointDriver.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.MachineLearning.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QSharp.Core.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.QSharp.Foundation.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Runtime.Core.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulation.Common.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Simulators.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Standard.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.Quantum.Targets.Interfaces.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.VisualStudio.LanguageServer.Protocol.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/NumSharp.Core.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.CodeDom.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.CommandLine.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Convention.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Hosting.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.IO.Hashing.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Memory.Data.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/System.Text.Json.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/Microsoft.WindowsAzure.Storage.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/YamlDotNet.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libMicrosoft.Quantum.Simulator.Runtime.so
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libMicrosoft.Quantum.SparseSimulator.Runtime.so
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libomp.so
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/linux-x64/native/libomp.so.5
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libMicrosoft.Quantum.Simulator.Runtime.dylib
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libMicrosoft.Quantum.SparseSimulator.Runtime.dylib
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/osx-x64/native/libomp.dylib
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.QdkSimRs.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Simulator.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.Simulator.Runtime.lib
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Quantum.SparseSimulator.Runtime.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win-x64/native/libomp140.x86_64.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.AssemblyReference.cache
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.CopyComplete
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.AssemblyInfoInputs.cache
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.AssemblyInfo.cs
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.csproj.CoreCompileInputs.cache
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/refint/CarEvaluation.dll
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.pdb
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/CarEvaluation.genruntimeconfig.cache
+/home/jovyan/QuantumKatas/assignments/Module10_QML/machine-learning/car-evaluation/obj/Debug/net6.0/ref/CarEvaluation.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\CarEvaluation.exe
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\train_test_split.json
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\CarEvaluation.deps.json
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\CarEvaluation.runtimeconfig.json
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\CarEvaluation.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\CarEvaluation.pdb
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Azure.Core.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Azure.Identity.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Azure.Quantum.Jobs.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Bond.Attributes.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Bond.IO.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Bond.Reflection.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Bond.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Bond.JSON.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\FParsec.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\FParsecCS.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\FSharp.Core.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Humanizer.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Markdig.Signed.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Azure.Quantum.Client.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.BondSchemas.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsCompilationManager.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsCompiler.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsCore.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsDataStructures.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsDocumentationParser.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsOptimizations.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsSyntaxProcessor.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsTextProcessor.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QsTransformations.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.CSharpGeneration.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.RoslynWrapper.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.EntryPointDriver.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.MachineLearning.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Core.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.QSharp.Foundation.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Runtime.Core.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Simulation.Common.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Simulators.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Standard.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.Quantum.Targets.Interfaces.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.VisualStudio.LanguageServer.Protocol.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\NumSharp.Core.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.CodeDom.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.CommandLine.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\System.Text.Json.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\Microsoft.WindowsAzure.Storage.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\YamlDotNet.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\cs\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\de\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\es\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\fr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\it\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ja\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ko\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pl\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\ru\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\tr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.Simulator.Runtime.so
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.so
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\libomp.so
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\linux-x64\native\libomp.so.5
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\osx-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.Simulator.Runtime.dylib
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\osx-x64\native\libMicrosoft.Quantum.SparseSimulator.Runtime.dylib
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\osx-x64\native\libomp.dylib
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Experimental.Simulators.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.QdkSimRs.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.Simulator.Runtime.lib
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Quantum.SparseSimulator.Runtime.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win-x64\native\libomp140.x86_64.dll
+D:\Quantum Computing\Archive001\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.csproj.AssemblyReference.cache
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.csproj.CopyComplete
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.AssemblyInfoInputs.cache
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.AssemblyInfo.cs
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.csproj.CoreCompileInputs.cache
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.dll
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\refint\CarEvaluation.dll
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.pdb
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\CarEvaluation.genruntimeconfig.cache
+D:\Quantum Computing\Archive001\obj\Debug\net6.0\ref\CarEvaluation.dll

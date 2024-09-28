@@ -1,0 +1,14 @@
+nohup: ignoring input
+[I 00:45:03.700 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.6.3
+[I 00:45:03.709 NotebookApp] Serving notebooks from local directory: /home/jovyan/assignments/Module10_QML/machine-learning/car-evaluation
+[I 00:45:03.709 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 00:45:03.709 NotebookApp] http://360b86a6666e:8888/?token=78ef776d7b5b93eef0de05a7507cd8286e45f310b37950e5
+[I 00:45:03.710 NotebookApp]  or http://127.0.0.1:8888/?token=78ef776d7b5b93eef0de05a7507cd8286e45f310b37950e5
+[I 00:45:03.710 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:45:03.716 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-9-open.html
+    Or copy and paste one of these URLs:
+        http://360b86a6666e:8888/?token=78ef776d7b5b93eef0de05a7507cd8286e45f310b37950e5
+     or http://127.0.0.1:8888/?token=78ef776d7b5b93eef0de05a7507cd8286e45f310b37950e5

@@ -46,11 +46,6 @@ Quantum computing holds the potential to revolutionize how we solve complex prob
 - **Azure Quantum**: The platform where you will run quantum algorithms on real quantum hardware.
 - **Microsoft Quantum Development Kit**: For programming quantum circuits and running simulations.
 
-## Grading Criteria
-- **Code correctness**: Proper implementation of quantum algorithms.
-- **Innovation**: Creativity in solving quantum problems or exploring advanced applications.
-- **Clarity**: Clear documentation and presentation of your results.
-- **Participation**: Contributions to discussions on challenges in quantum computing development.
 
 ## Conclusion
 This course offers an incredible opportunity to be part of the early quantum revolution. As quantum computers evolve, they will tackle problems currently unsolvable by classical machines, opening doors to new technological frontiers. Let’s dive into the quantum world and explore the future of computing!
